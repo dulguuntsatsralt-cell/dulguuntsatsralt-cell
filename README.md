@@ -7,26 +7,7 @@ SKILLS
 ================================================================================
 ```
 <p>
-<img src="https://img.shields.io/badge/PYTHON-21262d?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON">
-<img src="https://img.shields.io/badge/C%2B%2B-21262d?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/PYTORCH-21262d?style=for-the-badge&logo=pytorch&logoColor=white" alt="PYTORCH">
-<img src="https://img.shields.io/badge/HUGGING_FACE-21262d?style=for-the-badge&logo=huggingface&logoColor=white" alt="HUGGING FACE">
-<img src="https://img.shields.io/badge/LANGCHAIN-21262d?style=for-the-badge&logo=langchain&logoColor=white" alt="LANGCHAIN">
-<img src="https://img.shields.io/badge/OPENAI_API-21262d?style=for-the-badge&logo=openai&logoColor=white" alt="OPENAI API">
-<img src="https://img.shields.io/badge/OLLAMA-21262d?style=for-the-badge&logo=ollama&logoColor=white" alt="OLLAMA">
-<img src="https://img.shields.io/badge/PANDAS-21262d?style=for-the-badge&logo=pandas&logoColor=white" alt="PANDAS">
-<img src="https://img.shields.io/badge/NUMPY-21262d?style=for-the-badge&logo=numpy&logoColor=white" alt="NUMPY">
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-21262d?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="SCIKIT-LEARN">
-<img src="https://img.shields.io/badge/JUPYTER-21262d?style=for-the-badge&logo=jupyter&logoColor=white" alt="JUPYTER">
-<img src="https://img.shields.io/badge/GOOGLE_COLAB-21262d?style=for-the-badge&logo=googlecolab&logoColor=white" alt="GOOGLE COLAB">
-<img src="https://img.shields.io/badge/KAGGLE-21262d?style=for-the-badge&logo=kaggle&logoColor=white" alt="KAGGLE">
-<img src="https://img.shields.io/badge/TRITON-21262d?style=for-the-badge" alt="TRITON">
-<img src="https://img.shields.io/badge/SQL-21262d?style=for-the-badge" alt="SQL">
-<img src="https://img.shields.io/badge/GIT-21262d?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
-<img src="https://img.shields.io/badge/GITHUB_ACTIONS-21262d?style=for-the-badge&logo=githubactions&logoColor=white" alt="GITHUB ACTIONS">
-<img src="https://img.shields.io/badge/LINUX-21262d?style=for-the-badge&logo=linux&logoColor=white" alt="LINUX">
-<img src="https://img.shields.io/badge/LATEX-21262d?style=for-the-badge&logo=latex&logoColor=white" alt="LATEX">
-<img src="https://img.shields.io/badge/SENTINEL--1/2-21262d?style=for-the-badge" alt="SENTINEL-1/2">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,pytorch,sklearn,bash,powershell,linux,git,github,githubactions,latex,html,md&theme=dark&perline=13" alt="Python, C++, PyTorch, scikit-learn, Bash, PowerShell, Linux, Git, GitHub, GitHub Actions, LaTeX, HTML, Markdown"></a>
 </p>
 
 ```text
