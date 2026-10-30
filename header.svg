@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="732" viewBox="0 0 880 732" role="img" aria-label="Dulguun (Nico) Enkhtsatsral">
 <style>
-svg{--bg:#ffffff;--fg:#111111;--mut:#9a9a9a;--acc:#111111}
+svg{--bg:#0d1117;--fg:#ffffff;--mut:#5c636c;--acc:#ffffff}
 .bg{fill:var(--bg)}
 text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:13px;letter-spacing:.4px}
 .ln{fill:var(--mut);font-size:11px} .tx{fill:var(--fg)}
 .lb{fill:var(--fg)} .lt{fill:var(--bg)}
-.art rect{fill:var(--acc)} .art path{stroke:var(--acc);stroke-width:1.3;fill:none}
+.art rect{fill:var(--acc);shape-rendering:crispEdges} .art path{stroke:var(--acc);stroke-width:1.3;fill:none}
 .cur{fill:var(--acc);animation:b 1.1s steps(1) infinite} @keyframes b{50%{opacity:0}}
 </style>
 <rect class="bg" width="100%" height="100%"/>
