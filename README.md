@@ -3,6 +3,33 @@
 [`[ MK33 → ]`](https://github.com/dulguuntsatsralt-cell/Mk33) [`[ UNDEKLARED44 → ]`](https://github.com/dulguuntsatsralt-cell/undeklared44) [`[ WEBSITE → ]`](https://dulguuntsatsralt-cell.github.io) [`[ LINKEDIN → ]`](https://www.linkedin.com/in/nico-enkhtsatsral-96409b26b) [`[ EMAIL → ]`](mailto:de2318@nyu.edu)
 
 ```text
+SKILLS
+================================================================================
+```
+<p>
+<img src="https://img.shields.io/badge/PYTHON-21262d?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON">
+<img src="https://img.shields.io/badge/C%2B%2B-21262d?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/PYTORCH-21262d?style=for-the-badge&logo=pytorch&logoColor=white" alt="PYTORCH">
+<img src="https://img.shields.io/badge/HUGGING_FACE-21262d?style=for-the-badge&logo=huggingface&logoColor=white" alt="HUGGING FACE">
+<img src="https://img.shields.io/badge/LANGCHAIN-21262d?style=for-the-badge&logo=langchain&logoColor=white" alt="LANGCHAIN">
+<img src="https://img.shields.io/badge/OPENAI_API-21262d?style=for-the-badge&logo=openai&logoColor=white" alt="OPENAI API">
+<img src="https://img.shields.io/badge/OLLAMA-21262d?style=for-the-badge&logo=ollama&logoColor=white" alt="OLLAMA">
+<img src="https://img.shields.io/badge/PANDAS-21262d?style=for-the-badge&logo=pandas&logoColor=white" alt="PANDAS">
+<img src="https://img.shields.io/badge/NUMPY-21262d?style=for-the-badge&logo=numpy&logoColor=white" alt="NUMPY">
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-21262d?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="SCIKIT-LEARN">
+<img src="https://img.shields.io/badge/JUPYTER-21262d?style=for-the-badge&logo=jupyter&logoColor=white" alt="JUPYTER">
+<img src="https://img.shields.io/badge/GOOGLE_COLAB-21262d?style=for-the-badge&logo=googlecolab&logoColor=white" alt="GOOGLE COLAB">
+<img src="https://img.shields.io/badge/KAGGLE-21262d?style=for-the-badge&logo=kaggle&logoColor=white" alt="KAGGLE">
+<img src="https://img.shields.io/badge/TRITON-21262d?style=for-the-badge" alt="TRITON">
+<img src="https://img.shields.io/badge/SQL-21262d?style=for-the-badge" alt="SQL">
+<img src="https://img.shields.io/badge/GIT-21262d?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
+<img src="https://img.shields.io/badge/GITHUB_ACTIONS-21262d?style=for-the-badge&logo=githubactions&logoColor=white" alt="GITHUB ACTIONS">
+<img src="https://img.shields.io/badge/LINUX-21262d?style=for-the-badge&logo=linux&logoColor=white" alt="LINUX">
+<img src="https://img.shields.io/badge/LATEX-21262d?style=for-the-badge&logo=latex&logoColor=white" alt="LATEX">
+<img src="https://img.shields.io/badge/SENTINEL--1/2-21262d?style=for-the-badge" alt="SENTINEL-1/2">
+</p>
+
+```text
 EXHIBIT A: MK33
 A FULLY SPECIFIED RECIPE FOR TRAINING LONG-HORIZON SELF-IMPROVING AGENTS
 SOLE AUTHOR, PREPRINT, 2026
@@ -49,8 +76,6 @@ CHINA'S RECORD AS A SHARE OF MONGOLIA'S       TONNES        US DOLLARS
 ```
 
 ```text
-TOOLS:     PYTHON · C++ · PYTORCH · HUGGING FACE · TRITON · LANGGRAPH · SQL
-           SENTINEL-1/2 REMOTE SENSING · PANDAS
 LANGUAGES: MONGOLIAN · ENGLISH · CHINESE · A LITTLE GERMAN
 STATUS:    OPEN TO DATA SCIENCE AND AI/ML INTERNSHIPS, 2027
 ```
