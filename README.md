@@ -6,9 +6,38 @@
 SKILLS
 ================================================================================
 ```
-<p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,pytorch,sklearn,bash,powershell,linux,git,github,githubactions,latex,html,md&theme=dark&perline=13" alt="Python, C++, PyTorch, scikit-learn, Bash, PowerShell, Linux, Git, GitHub, GitHub Actions, LaTeX, HTML, Markdown"></a>
-</p>
+<table>
+<tr>
+<td><code>LANGUAGES</code></td>
+<td>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON"> <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA"> <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" alt="RUST"> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=white" alt="BASH">
+</td>
+</tr>
+<tr>
+<td><code>FRAMEWORKS</code></td>
+<td>
+<img src="https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="PYTORCH"> <img src="https://img.shields.io/badge/HUGGING_FACE-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="HUGGING FACE"> <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" alt="FLASK"> <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NODE.JS"> <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white" alt="REACT">
+</td>
+</tr>
+<tr>
+<td><code>SYSTEMS & GPU</code></td>
+<td>
+<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" alt="LINUX"> <img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"> <img src="https://img.shields.io/badge/TRITON-000000?style=for-the-badge" alt="TRITON">
+</td>
+</tr>
+<tr>
+<td><code>DATABASES</code></td>
+<td>
+<img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRESQL"> <img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB">
+</td>
+</tr>
+<tr>
+<td><code>TOOLS</code></td>
+<td>
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" alt="GIT"> <img src="https://img.shields.io/badge/GITHUB_ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="GITHUB ACTIONS"> <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" alt="DOCKER"> <img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge" alt="VS CODE">
+</td>
+</tr>
+</table>
 
 ```text
 EXHIBIT A: MK33
@@ -26,7 +55,8 @@ CODE, EVERY THRESHOLD A CONFIG VALUE, AND EVERY DESIGN CHOICE AN ABLATION.
   MEMORY STUDY (T4) ......... H2O EVICTION WITHIN 0.05-0.07 NATS OF THE
                               FULL KV CACHE AT HALF THE CONTEXT
   LAPTOP LONG RUNS .......... LEDGER 2.4-9.6X FASTER PER CALL THAN TRUNCATION
-  OPEN SOURCE ............... APACHE-2.0, 43 TESTS IN CI
+  OPEN SOURCE ............... APACHE-2.0, 17 ABLATIONS, 140+ TESTS IN CI
+                              ACROSS LINUX, WINDOWS AND MACOS
 
   0%                                   75%                    100%
   before ▓▓▓▓▓▓▓▓████████████████████████████████████████············
