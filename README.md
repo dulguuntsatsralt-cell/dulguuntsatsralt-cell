@@ -8,7 +8,6 @@
 
 <a href="https://github.com/dulguuntsatsralt-cell/undeklared44"><img src="exhibit-b-undeklared44.svg" alt="undeklared44: Mongolia coal export tonnes match China's record within about 2% a year, but dollars fall to 73% in 2021 and 78% in 2022, about $2B less; Indonesian and Canadian coal show no gap; 5 satellite tests all failed and logged" width="100%"></a>
 
-<img src="exhibit-c-skyline.svg" alt="Contribution skyline: one building per day for the last year, height is commits" width="100%">
 
 ```text
 LANGUAGES: MONGOLIAN · ENGLISH · CHINESE · A LITTLE GERMAN
